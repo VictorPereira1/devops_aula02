@@ -1,7 +1,5 @@
-Robert Downey Jr
-
-Benedict Cumberbatch
-
-Tom Holland
-
-Scarllet Johansson
+Robert Downey Jr  
+Benedict Cumberbatch  
+Tom Holland  
+Scarllet Johansson  
+Adam Sandler  
